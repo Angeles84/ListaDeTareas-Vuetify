@@ -1,7 +1,7 @@
 # lista-tareas
-
+Ver el sitio aquí https://listadetareas-vuetify.netlify.app/#/tareas-crud
 ## Project setup
-```
+``
 npm install
 ```
 
